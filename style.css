@@ -10,7 +10,6 @@ header {
     text-align: center;
 }
 
-
 details {
     font-size: larger;
     font-style: italic;
@@ -36,8 +35,7 @@ details {
     color: darkslategray;
     font-size: xx-large;
     text-align: center;
-    
-}
+    }
 
 .images {
     border-radius: 10px; 
@@ -46,10 +44,7 @@ details {
     height: 50%; 
     margin-left: auto;
     margin-right: auto;
-    
 }
-
-
 
 .caption {
     text-align: center;
