@@ -48,6 +48,7 @@ details {
 
 .caption {
     text-align: center;
+    font-family: sans-serif;
 }
 
 .description {
@@ -61,5 +62,6 @@ details {
 footer {
     text-align: center;
     padding: 35px;
+    font-family: sans-serif;
 }
 
